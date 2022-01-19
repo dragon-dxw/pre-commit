@@ -1,0 +1,7 @@
+-   id: standardrb
+    name: Standard Ruby
+    description: The standard ruby linter
+    entry: bundle exec standardrb
+    language: system
+    types: [ruby]
+    exclude: ^bin/|^db/
